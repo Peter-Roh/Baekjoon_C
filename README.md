@@ -32,12 +32,12 @@ site : https://www.acmicpc.net/
 |11720|공백없이 주어진 숫자 N개의 합 구하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/11720.c|
 |11721|10개씩 끊어서 출력하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/11721.c|
 |15552|빠른 A + B|https://github.com/Peter-Roh/Baekjoon_C/blob/master/15552.c|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+|9498|시험 점수 입력 받고 성적 출력하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/9498.c|
+|10817|세 정수 중 두 번째로 큰 정수 찾기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/10817.c|
+|10871|정수 N개 중 X보다 작은 수 모두 출력하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/10871.c|
+|1546|최대값을 찾아 점수 조작하고 새로운 평균 구하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/1546.c|
+|4334|평균을 넘는 학생의 비율 출력하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/4344.c|
+|1110|조건을 만족할 때까지 계속 더하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/1110.c|
 | | | |
 | | | |
 | | | |
