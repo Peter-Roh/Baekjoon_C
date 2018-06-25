@@ -47,6 +47,5 @@ site : https://www.acmicpc.net/
 |11654|아스키 코드 값 출력하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/11654.c|
 |2908|숫자 뒤집어서 비교하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/2908.c|
 |5622|다이얼을 걸기 위해 필요한 시간 구하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/5622.c|
-|| ||
-|| ||
-|| ||
+|2747|피보나치 수 - 1|https://github.com/Peter-Roh/Baekjoon_C/blob/master/2747.c|
+|2748|피보나치 수 - 2|https://github.com/Peter-Roh/Baekjoon_C/blob/master/2748.c|
