@@ -44,11 +44,9 @@ site : https://www.acmicpc.net/
 |8958|OX퀴즈 규칙에 따라 점수 매기기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/8958.c|
 |2920|주어진 배열이 오름차순인지 아닌지 판단하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/2920.c|
 |10039|평균 점수 구하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/10039.c|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-
-updating...
+|11654|아스키 코드 값 출력하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/11654.c|
+|2908|숫자 뒤집어서 비교하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/2908.c|
+|5622|다이얼을 걸기 위해 필요한 시간 구하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/5622.c|
+|| ||
+|| ||
+|| ||
