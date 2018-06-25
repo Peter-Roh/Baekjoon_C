@@ -38,12 +38,12 @@ site : https://www.acmicpc.net/
 |1546|최대값을 찾아 점수 조작하고 새로운 평균 구하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/1546.c|
 |4334|평균을 넘는 학생의 비율 출력하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/4344.c|
 |1110|조건을 만족할 때까지 계속 더하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/1110.c|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+|1065|각 자리수가 등차수열을 이루는 수 개수 구하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/1065.c|
+|1152|단어 수 세기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/1152.c|
+|2577|세 수를 곱한 수에 0부터 9까지의 수가 몇 번 쓰였는지 출력|https://github.com/Peter-Roh/Baekjoon_C/blob/master/2577.c|
+|8958|OX퀴즈 규칙에 따라 점수 매기기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/8958.c|
+|2920|주어진 배열이 오름차순인지 아닌지 판단하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/2920.c|
+|10039|평균 점수 구하기|https://github.com/Peter-Roh/Baekjoon_C/blob/master/10039.c|
 | | | |
 | | | |
 | | | |
