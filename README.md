@@ -1,6 +1,8 @@
 # Baekjoon_C
 
-studying programming by solving problems from baekjoon using C. 
+Studying programming by solving problems from baekjoon using C.  
+Click links to see the questions and answers on the table.  
+Links on the question number leads to the questions and links on the explanation leads to the codes I wrote.  
 
 site : https://www.acmicpc.net/
 
