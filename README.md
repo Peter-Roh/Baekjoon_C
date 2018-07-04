@@ -47,6 +47,7 @@ site : https://www.acmicpc.net/
 |[2920](https://www.acmicpc.net/problem/2920)|[주어진 배열이 오름차순인지 아닌지 판단하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2920.c)|
 |[10039](https://www.acmicpc.net/problem/10039)|[평균 점수 구하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/10039.c)|
 |[11654](https://www.acmicpc.net/problem/11654)|[아스키 코드 값 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/11654.c)|
+|[10809](https://www.acmicpc.net/problem/10809)|[한 단어에서 각 알파벳이 처음 등장하는 위치 출력](https://github.com/Peter-Roh/Baekjoon_C/blob/master/10809.c)|
 |[2675](https://www.acmicpc.net/problem/2675)|[문자열의 각 문자 반복해서 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2675.c)|
 |[2908](https://www.acmicpc.net/problem/2908)|[숫자 뒤집어서 비교하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2908.c)|
 |[5622](https://www.acmicpc.net/problem/5622)|[다이얼을 걸기 위해 필요한 시간 구하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/5622.c)|
