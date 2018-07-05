@@ -52,5 +52,6 @@ site : https://www.acmicpc.net/
 |[1157](https://www.acmicpc.net/problem/1157)|[주어진 단어에서 가장 많이 사용된 알파벳 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1157.c)|
 |[2908](https://www.acmicpc.net/problem/2908)|[숫자 뒤집어서 비교하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2908.c)|
 |[5622](https://www.acmicpc.net/problem/5622)|[다이얼을 걸기 위해 필요한 시간 구하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/5622.c)|
+|[2941](https://www.acmicpc.net/problem/2941)|[규칙에 맞는 알파벳의 개수 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2941.c)|
 |[2747](https://www.acmicpc.net/problem/2747)|[피보나치 수 - 1](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2747.c)|
 |[2748](https://www.acmicpc.net/problem/2748)|[피보나치 수 - 2](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2748.c)|
