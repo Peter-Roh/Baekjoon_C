@@ -50,6 +50,7 @@ site : https://www.acmicpc.net/
 |[10809](https://www.acmicpc.net/problem/10809)|[한 단어에서 각 알파벳이 처음 등장하는 위치 출력](https://github.com/Peter-Roh/Baekjoon_C/blob/master/10809.c)|
 |[2675](https://www.acmicpc.net/problem/2675)|[문자열의 각 문자 반복해서 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2675.c)|
 |[1157](https://www.acmicpc.net/problem/1157)|[주어진 단어에서 가장 많이 사용된 알파벳 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1157.c)|
+|[1316](https://www.acmicpc.net/problem/1316)|[그룹 단어의 개수 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1316.c)|
 |[2908](https://www.acmicpc.net/problem/2908)|[숫자 뒤집어서 비교하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2908.c)|
 |[5622](https://www.acmicpc.net/problem/5622)|[다이얼을 걸기 위해 필요한 시간 구하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/5622.c)|
 |[2941](https://www.acmicpc.net/problem/2941)|[규칙에 맞는 알파벳의 개수 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2941.c)|
