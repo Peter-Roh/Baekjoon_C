@@ -42,7 +42,9 @@ int main(void)
 	BubbleSort(arr, N);
 
 	for(i = 0; i < N; i++)
+	{
 		printf("%d\n", arr[i]);
+	}
 
 	return 0;
 }
