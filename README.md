@@ -56,5 +56,6 @@ site : https://www.acmicpc.net/
 |[2941](https://www.acmicpc.net/problem/2941)|[규칙에 맞는 알파벳의 개수 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2941.c)|
 |[2750](https://www.acmicpc.net/problem/2750)|[Bubble Sort로 수 정렬하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2750.c)|
 |[2750](https://www.acmicpc.net/problem/2750)|[Insertion Sort로 수 정렬하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2750%20-%202.c)|
+|[2751](https://www.acmicpc.net/problem/2751)|[Merge Sort로 수 정렬하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2751.c)|
 |[2747](https://www.acmicpc.net/problem/2747)|[피보나치 수 - 1](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2747.c)|
 |[2748](https://www.acmicpc.net/problem/2748)|[피보나치 수 - 2](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2748.c)|
