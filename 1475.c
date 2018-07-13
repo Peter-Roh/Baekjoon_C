@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	int cnt[11] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
+	int cnt[11] = {0};
 	int N, i;
 	int max = 0;
 
