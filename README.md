@@ -38,7 +38,7 @@ site : https://www.acmicpc.net/
 |[10817](https://www.acmicpc.net/problem/10817)|[세 정수 중 두 번째로 큰 정수 찾기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/10817.c)|
 |[10871](https://www.acmicpc.net/problem/10871)|[정수 N개 중 X보다 작은 수 모두 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/10871.c)|
 |[1546](https://www.acmicpc.net/problem/1546)|[최대값을 찾아 점수 조작하고 새로운 평균 구하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1546.c)|
-|[4334](https://www.acmicpc.net/problem/4344)|[평균을 넘는 학생의 비율 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/4344.c)|
+|[4344](https://www.acmicpc.net/problem/4344)|[평균을 넘는 학생의 비율 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/4344.c)|
 |[1110](https://www.acmicpc.net/problem/1110)|[조건을 만족할 때까지 계속 더하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1110.c)|
 |[1065](https://www.acmicpc.net/problem/1065)|[각 자리수가 등차수열을 이루는 수 개수 구하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1065.c)|
 |[1152](https://www.acmicpc.net/problem/1152)|[단어 수 세기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1152.c)|
