@@ -1,5 +1,4 @@
 #include<stdio.h>
-#pragma warning(disable:4996)
 
 int main()
 {
@@ -9,7 +8,9 @@ int main()
 	scanf("%d", &n);
 
 	if (n < 10)
+	{
 		n *= 10;
+	}
 
 	k = n;
 
