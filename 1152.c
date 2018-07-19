@@ -16,6 +16,7 @@ int main(void)
 	}
 
 	for (i = 0; i < strlen(str); i++)
+	{
 		if (i == 0 && str[i] == 10)
 			break;
 		else if(i == 0 && str[i] != 10)
@@ -31,6 +32,7 @@ int main(void)
 
 			break;
 		}
+	}
 
 	printf("%d\n", cnt);
 }
