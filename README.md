@@ -66,6 +66,7 @@ site : https://www.acmicpc.net/
 |[10828](https://www.acmicpc.net/problem/10828)|[정수를 저장하는 스택 구현하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/10828.c)|
 |[2747](https://www.acmicpc.net/problem/2747)|[피보나치 수 - 1](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2747.c)|
 |[2748](https://www.acmicpc.net/problem/2748)|[피보나치 수 - 2](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2748.c)|
+|[2749](https://www.acmicpc.net/problem/2749)|[피보나치 수 - 3](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2749.c)|
 |[1003](https://www.acmicpc.net/problem/1003)|[피보나치 함수](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1003.c)|
 |[11050](https://www.acmicpc.net/problem/11050)|[재귀 함수로 이항 계수 계산하기 - 1](https://github.com/Peter-Roh/Baekjoon_C/blob/master/11050%20-%201.c)|
 |[11050](https://www.acmicpc.net/problem/11050)|[재귀 함수로 이항 계수 계산하기 - 2](https://github.com/Peter-Roh/Baekjoon_C/blob/master/11050%20-%202.c)|
