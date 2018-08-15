@@ -72,4 +72,5 @@ site : https://www.acmicpc.net/
 |[11050](https://www.acmicpc.net/problem/11050)|[재귀 함수로 이항 계수 계산하기 - 1](https://github.com/Peter-Roh/Baekjoon_C/blob/master/11050%20-%201.c)|
 |[11050](https://www.acmicpc.net/problem/11050)|[재귀 함수로 이항 계수 계산하기 - 2](https://github.com/Peter-Roh/Baekjoon_C/blob/master/11050%20-%202.c)|
 |[10872](https://www.acmicpc.net/problem/10872)|[N! 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/10872.c)|
+|[2490](https://www.acmicpc.net/problem/2490)|[윷짝의 상태 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2490.c)|
 |[1977](https://www.acmicpc.net/problem/1977)|[M 이상 N 이하의 완전제곱수 찾기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1977.c)|
