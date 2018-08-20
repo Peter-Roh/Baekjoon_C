@@ -75,4 +75,5 @@ site : https://www.acmicpc.net/
 |[10872](https://www.acmicpc.net/problem/10872)|[N! 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/10872.c)|
 |[2490](https://www.acmicpc.net/problem/2490)|[윷짝의 상태 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2490.c)|
 |[2455](https://www.acmicpc.net/problem/2455)|[기차에 사람이 가장 많을 때의 사람 수 구하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2455.c)|
+|[1094](https://www.acmicpc.net/problem/1094)|[64cm인 막대기를 잘라 길이 X의 막대기로 바꾸기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1094.c)|
 |[1977](https://www.acmicpc.net/problem/1977)|[M 이상 N 이하의 완전제곱수 찾기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1977.c)|
