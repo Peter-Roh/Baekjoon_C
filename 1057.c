@@ -2,14 +2,14 @@
 
 int main(void)
 {
-	int N, a, b, cnt = 0;
+	int N, X, Y, cnt = 0;
 
-	scanf("%d %d %d", &N, &a, &b);
+	scanf("%d %d %d", &N, &X, &Y);
 
-	while(a != b)
+	while(X != Y)
 	{
-		a = a - a / 2;
-		b = b - b / 2;
+		X = X - X / 2;
+		Y = Y - Y / 2;
 
 		cnt++;
 	}
