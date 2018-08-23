@@ -74,6 +74,7 @@ site : https://www.acmicpc.net/
 |[11050](https://www.acmicpc.net/problem/11050)|[재귀 함수로 이항 계수 계산하기 - 2](https://github.com/Peter-Roh/Baekjoon_C/blob/master/11050%20-%202.c)|
 |[10872](https://www.acmicpc.net/problem/10872)|[N! 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/10872.c)|
 |[2490](https://www.acmicpc.net/problem/2490)|[윷짝의 상태 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2490.c)|
+|[1934](https://www.acmicpc.net/problem/1934)|[최소공배수 구하기 1](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1934.c)|
 |[2455](https://www.acmicpc.net/problem/2455)|[기차에 사람이 가장 많을 때의 사람 수 구하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2455.c)|
 |[1094](https://www.acmicpc.net/problem/1094)|[64cm인 막대기를 잘라 길이 X의 막대기로 바꾸기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1094.c)|
 |[1057](https://www.acmicpc.net/problem/1057)|[N명이 토너먼트를 할 때, X, Y가 몇 번째 토너먼트 대결에서 대결할지 구하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1057.c)|
