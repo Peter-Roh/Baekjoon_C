@@ -76,6 +76,7 @@ site : https://www.acmicpc.net/
 |[2490](https://www.acmicpc.net/problem/2490)|[윷짝의 상태 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2490.c)|
 |[1934](https://www.acmicpc.net/problem/1934)|[최소공배수 구하기 1](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1934.c)|
 |[13241](https://www.acmicpc.net/problem/13241)|[최소공배수 구하기 2](https://github.com/Peter-Roh/Baekjoon_C/blob/master/13241.c)|
+|[2609](https://www.acmicpc.net/problem/2609)|[두 자연수의 최대공약수와 최소공배수 구하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2609.c)|
 |[3036](https://www.acmicpc.net/problem/3036)|[첫 번째 링을 한 바퀴 돌렸을 때, 나머지 링이 몇 바퀴 도는지 구하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/3036.c)|
 |[2455](https://www.acmicpc.net/problem/2455)|[기차에 사람이 가장 많을 때의 사람 수 구하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2455.c)|
 |[1094](https://www.acmicpc.net/problem/1094)|[64cm인 막대기를 잘라 길이 X의 막대기로 바꾸기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1094.c)|
