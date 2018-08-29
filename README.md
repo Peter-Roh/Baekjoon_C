@@ -54,6 +54,7 @@ site : https://www.acmicpc.net/
 |[2908](https://www.acmicpc.net/problem/2908)|[숫자 뒤집어서 비교하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2908.c)|
 |[5622](https://www.acmicpc.net/problem/5622)|[다이얼을 걸기 위해 필요한 시간 구하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/5622.c)|
 |[2941](https://www.acmicpc.net/problem/2941)|[규칙에 맞는 알파벳의 개수 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2941.c)|
+|[1193](https://www.acmicpc.net/problem/1193)|[규칙에 따라 X번째 분수 구하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1193.c)|
 |[1475](https://www.acmicpc.net/problem/1475)|[방 번호를 붙이는데 필요한 세트의 개수의 최솟값 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1475.c)|
 |[6064](https://www.acmicpc.net/problem/6064)|[규칙에 따라 <x, y>가 몇 번째 해인지 구하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/6064.c)|
 |[2750](https://www.acmicpc.net/problem/2750)|[Bubble Sort로 수 정렬하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2750.c)|
