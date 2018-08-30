@@ -83,4 +83,5 @@ site : https://www.acmicpc.net/
 |[1094](https://www.acmicpc.net/problem/1094)|[64cm인 막대기를 잘라 길이 X의 막대기로 바꾸기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1094.c)|
 |[1057](https://www.acmicpc.net/problem/1057)|[N명이 토너먼트를 할 때, X, Y가 몇 번째 토너먼트 대결에서 대결할지 구하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1057.c)|
 |[1547](https://www.acmicpc.net/problem/1547)|[컵 안에 공을 넣고 M번 자리를 바꾼 후 공이 들어있는 위치 ](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1547.c)|
+|[2740](https://www.acmicpc.net/problem/2740)|[행렬 곱셈하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2740.c)|
 |[1977](https://www.acmicpc.net/problem/1977)|[M 이상 N 이하의 완전제곱수 찾기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1977.c)|
