@@ -61,6 +61,7 @@ site : https://www.acmicpc.net/
 |[2750](https://www.acmicpc.net/problem/2750)|[Bubble Sort로 수 정렬하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2750.c)|
 |[2750](https://www.acmicpc.net/problem/2750)|[Insertion Sort로 수 정렬하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2750%20-%202.c)|
 |[2751](https://www.acmicpc.net/problem/2751)|[Merge Sort로 수 정렬하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2751.c)|
+|[1427](https://www.acmicpc.net/problem/1427)|[숫자 내림차순으로 ](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1427.c)|
 |[1978](https://www.acmicpc.net/problem/1978)|[주어진 수들 중 소수의 개수 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1978.c)|
 |[2581](https://www.acmicpc.net/problem/2581)|[M 이상 N 이하의 소수를 모두 찾아 그 합과 최솟값 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2581.c)|
 |[1929](https://www.acmicpc.net/problem/1929)|[M 이상 N 이하의 소수 모두 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1929.c)|
