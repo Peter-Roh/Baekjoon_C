@@ -77,6 +77,7 @@ site : https://www.acmicpc.net/
 |[11050](https://www.acmicpc.net/problem/11050)|[재귀 함수로 이항 계수 계산하기 - 2](https://github.com/Peter-Roh/Baekjoon_C/blob/master/11050%20-%202.c)|
 |[10872](https://www.acmicpc.net/problem/10872)|[N! 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/10872.c)|
 |[2490](https://www.acmicpc.net/problem/2490)|[윷짝의 상태 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2490.c)|
+|[3053](https://www.acmicpc.net/problem/3053)|[유클리드 기하학과 택시 기하학에서의 원의 넓이 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/3053.c)|
 |[1934](https://www.acmicpc.net/problem/1934)|[최소공배수 구하기 1](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1934.c)|
 |[13241](https://www.acmicpc.net/problem/13241)|[최소공배수 구하기 2](https://github.com/Peter-Roh/Baekjoon_C/blob/master/13241.c)|
 |[2609](https://www.acmicpc.net/problem/2609)|[두 자연수의 최대공약수와 최소공배수 구하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2609.c)|
