@@ -77,6 +77,7 @@ site : https://www.acmicpc.net/
 |[11050](https://www.acmicpc.net/problem/11050)|[재귀 함수로 이항 계수 계산하기 - 1](https://github.com/Peter-Roh/Baekjoon_C/blob/master/11050%20-%201.c)|
 |[11050](https://www.acmicpc.net/problem/11050)|[재귀 함수로 이항 계수 계산하기 - 2](https://github.com/Peter-Roh/Baekjoon_C/blob/master/11050%20-%202.c)|
 |[10872](https://www.acmicpc.net/problem/10872)|[N! 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/10872.c)|
+|[1149](https://www.acmicpc.net/problem/1149)|[규칙에 따라 집을 칠하는 최소 비용 구하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1149.c)|
 |[1932](https://www.acmicpc.net/problem/1932)|[정수 삼각형에서 합이 최대가 되는 경로에 있는 수의 합 구하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1932.c)|
 |[2490](https://www.acmicpc.net/problem/2490)|[윷짝의 상태 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2490.c)|
 |[3053](https://www.acmicpc.net/problem/3053)|[유클리드 기하학과 택시 기하학에서의 원의 넓이 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/3053.c)|
