@@ -92,3 +92,4 @@ site : https://www.acmicpc.net/
 |[1547](https://www.acmicpc.net/problem/1547)|[컵 안에 공을 넣고 M번 자리를 바꾼 후 공이 들어있는 위치 ](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1547.c)|
 |[2740](https://www.acmicpc.net/problem/2740)|[행렬 곱셈하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2740.c)|
 |[1977](https://www.acmicpc.net/problem/1977)|[M 이상 N 이하의 완전제곱수 찾기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1977.c)|
+|[2309](https://www.acmicpc.net/problem/2309)|[9개 중 7개의 합이 100이 되는 경우 찾기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2309.c)|
