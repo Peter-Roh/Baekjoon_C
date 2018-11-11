@@ -97,3 +97,4 @@ site : https://www.acmicpc.net/
 |[2740](https://www.acmicpc.net/problem/2740)|[행렬 곱셈하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2740.c)|
 |[1977](https://www.acmicpc.net/problem/1977)|[M 이상 N 이하의 완전제곱수 찾기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1977.c)|
 |[2309](https://www.acmicpc.net/problem/2309)|[9개 중 7개의 합이 100이 되는 경우 찾기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2309.c)|
+|[7568](https://www.acmicpc.net/problem/7568)|[규칙에 따라 숫자쌍 순서 정하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/7568.c)|
