@@ -70,6 +70,7 @@ site : https://www.acmicpc.net/
 |[4948](https://www.acmicpc.net/problem/4948)|[n보다 크고 2n보다 작거나 같은 소수의 개수 출력하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/4948.c)|
 |[9020](https://www.acmicpc.net/problem/9020)|[골드바흐의 추측](https://github.com/Peter-Roh/Baekjoon_C/blob/master/9020.c)|
 |[10828](https://www.acmicpc.net/problem/10828)|[정수를 저장하는 스택 구현하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/10828.c)|
+|[9012](https://www.acmicpc.net/problem/9012)|[주어진 입력이 올바른 괄호 문자열인지 확인하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/9012.c)|
 |[10845](https://www.acmicpc.net/problem/10845)|[정수를 저장하는 큐 구현하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/10845.c)|
 |[11866](https://www.acmicpc.net/problem/11866)|[큐를 이용해 조세퍼스 순열 출력하기 - 1](https://github.com/Peter-Roh/Baekjoon_C/blob/master/11866.c)|
 |[1158](https://www.acmicpc.net/problem/1158)|[큐를 이용해 조세퍼스 순열 출력하기 - 2](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1158.c)|
