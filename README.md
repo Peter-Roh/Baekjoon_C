@@ -99,3 +99,4 @@ site : https://www.acmicpc.net/
 |[1977](https://www.acmicpc.net/problem/1977)|[M 이상 N 이하의 완전제곱수 찾기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/1977.c)|
 |[2309](https://www.acmicpc.net/problem/2309)|[9개 중 7개의 합이 100이 되는 경우 찾기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/2309.c)|
 |[7568](https://www.acmicpc.net/problem/7568)|[규칙에 따라 숫자쌍 순서 정하기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/7568.c)|
+|[11047](https://www.acmicpc.net/problem/11047)|[동전의 합이 K가 되는 동전의 조합 찾기](https://github.com/Peter-Roh/Baekjoon_C/blob/master/11047.c)|
